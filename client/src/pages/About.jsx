@@ -3,12 +3,12 @@ import React from 'react'
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Sahand Estate</h1>
-      <p className='mb-4 text-slate-700'>Sahand Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.</p>
+      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Prafull's Estate</h1>
+      <p className='mb-4 text-slate-700'>Prafull's Estate is a leading real estate agency specializing in helping clients buy, sell, and rent properties in prime locations. Our team of experienced professionals is committed to providing exceptional service, ensuring a seamless and hassle-free property transaction experience. With a focus on customer satisfaction and market expertise, Prafull's Estate is your trusted partner in finding the perfect home or investment opportunity.</p>
       <p className='mb-4 text-slate-700'>
-      Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way.
+      At Prafull's Estate, our mission is to help clients achieve their real estate goals with expert advice, personalized service, and in-depth knowledge of the local market. Whether you're looking to buy, sell, or rent a property, our dedicated team is here to guide you through every step of the process, ensuring a smooth and successful experience.
       </p>
-      <p className='mb-4 text-slate-700'>Our team of agents has a wealth of experience and knowledge in the real estate industry, and we are committed to providing the highest level of service to our clients. We believe that buying or selling a property should be an exciting and rewarding experience, and we are dedicated to making that a reality for each and every one of our clients.</p>
+      <p className='mb-4 text-slate-700'>The team at Prafull's Estate brings extensive experience and deep industry knowledge to the real estate market. We are committed to delivering the highest level of service, ensuring that every client’s journey—whether buying, selling, or renting—is smooth, exciting, and rewarding. Our goal is to turn your real estate aspirations into reality with professionalism, integrity, and a customer-first approach.</p>
     </div>
   )
 }
